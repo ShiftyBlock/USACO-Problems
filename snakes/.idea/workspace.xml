@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="41dae8f4-fd64-4418-9cff-a52d422c3499" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JAVA CLASS,," />
+        <option value="JAVA CLASS'" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hBuizUmXdNwo2SgIugQykc8uQh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.mincross">
+    <configuration name="bphoto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bphoto" />
+      <module name="snakes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mincross" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mincross" />
+      <module name="snakes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="snakes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="snakes" />
+      <module name="snakes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.mincross" />
+        <item itemvalue="Application.bphoto" />
+        <item itemvalue="Application.snakes" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="771" height="275" key="GridCell.Tab.0.bottom" timestamp="1599703836568">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="771" height="275" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1599703836568" />
+    <state width="771" height="275" key="GridCell.Tab.0.center" timestamp="1599703836567">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="771" height="275" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1599703836567" />
+    <state width="771" height="275" key="GridCell.Tab.0.left" timestamp="1599703836567">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="771" height="275" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1599703836567" />
+    <state width="771" height="275" key="GridCell.Tab.0.right" timestamp="1599703836567">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="771" height="275" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1599703836567" />
+    <state width="771" height="341" key="GridCell.Tab.1.bottom" timestamp="1599587863983">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="771" height="341" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1599587863983" />
+    <state width="771" height="341" key="GridCell.Tab.1.center" timestamp="1599587863982">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="771" height="341" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1599587863982" />
+    <state width="771" height="341" key="GridCell.Tab.1.left" timestamp="1599587863982">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="771" height="341" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1599587863982" />
+    <state width="771" height="341" key="GridCell.Tab.1.right" timestamp="1599587863982">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="771" height="341" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1599587863982" />
+    <state x="876" y="23" width="838" height="1032" key="search.everywhere.popup" timestamp="1599604408191">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="876" y="23" width="838" height="1032" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1599604408191" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bphoto.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

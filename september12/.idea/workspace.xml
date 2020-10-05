@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ccd298e-09cb-4d0c-9ad1-8109638c979d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JAVA CLASS," />
+        <option value="JAVA CLASS,." />
+        <option value="JAVA CLASS." />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hQ4HYWo0kOcicnQiGJ69nI2a3A" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RunManager" selected="Application.fire">
+    <configuration name="fire" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fire" />
+      <module name="september12" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort" />
+      <module name="september12" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="talent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="talent" />
+      <module name="september12" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.fire" />
+        <item itemvalue="Application.sort" />
+        <item itemvalue="Application.talent" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="763" height="275" key="GridCell.Tab.0.bottom" timestamp="1599984221736">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="763" height="275" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1599984221736" />
+    <state width="763" height="275" key="GridCell.Tab.0.center" timestamp="1599984221735">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="763" height="275" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1599984221735" />
+    <state width="763" height="275" key="GridCell.Tab.0.left" timestamp="1599984221735">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="763" height="275" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1599984221735" />
+    <state width="763" height="275" key="GridCell.Tab.0.right" timestamp="1599984221735">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="763" height="275" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1599984221735" />
+    <state width="763" height="341" key="GridCell.Tab.1.bottom" timestamp="1599984221732">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="763" height="341" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1599984221732" />
+    <state width="763" height="341" key="GridCell.Tab.1.center" timestamp="1599984221731">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="763" height="341" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1599984221731" />
+    <state width="763" height="341" key="GridCell.Tab.1.left" timestamp="1599984221731">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="763" height="341" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1599984221731" />
+    <state width="763" height="341" key="GridCell.Tab.1.right" timestamp="1599984221732">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="763" height="341" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1599984221732" />
+    <state x="494" y="88" key="SettingsEditor" timestamp="1599934314505">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="494" y="88" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1599934314505" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/talent.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sort.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sort.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/fire.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
