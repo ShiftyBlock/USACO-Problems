@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d877c32-2993-40c1-8cbe-3991cee65a00" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JAVA CLASS''" />
+        <option value="Class" />
+        <option value="JAVA CLASS,." />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gSkdWa1sFOJuNEgjlxluvxnGvF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RunManager" selected="Application.teamwork">
+    <configuration name="cowpatidibility" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cowpatidibility" />
+      <module name="august22" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="random" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="random" />
+      <module name="august22" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="teamwork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="teamwork" />
+      <module name="august22" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.teamwork" />
+        <item itemvalue="Application.random" />
+        <item itemvalue="Application.cowpatidibility" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="847" height="275" key="GridCell.Tab.0.bottom" timestamp="1598288408364">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="847" height="275" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1598288408364" />
+    <state width="847" height="275" key="GridCell.Tab.0.center" timestamp="1598288408363">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="847" height="275" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1598288408363" />
+    <state width="847" height="275" key="GridCell.Tab.0.left" timestamp="1598288408363">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="847" height="275" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1598288408363" />
+    <state width="847" height="275" key="GridCell.Tab.0.right" timestamp="1598288408364">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="847" height="275" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1598288408364" />
+    <state width="847" height="341" key="GridCell.Tab.1.bottom" timestamp="1598288408360">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="847" height="341" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1598288408360" />
+    <state width="847" height="341" key="GridCell.Tab.1.center" timestamp="1598288408360">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="847" height="341" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1598288408360" />
+    <state width="847" height="341" key="GridCell.Tab.1.left" timestamp="1598288408360">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="847" height="341" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1598288408360" />
+    <state width="847" height="341" key="GridCell.Tab.1.right" timestamp="1598288408360">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="847" height="341" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1598288408360" />
+    <state x="494" y="89" key="SettingsEditor" timestamp="1598253266133">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="494" y="89" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1598253266133" />
+    <state x="951" y="284" key="refactoring.ChangeSignatureDialog" timestamp="1598241845232">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="951" y="284" key="refactoring.ChangeSignatureDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1598241845232" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/teamwork.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

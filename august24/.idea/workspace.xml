@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="135b0c6f-a642-444d-ab18-a0283eede4ec" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JAVA CLASS''" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gYPB7ETgbZYB9l4cZ0XAtLMH1R" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="poetry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poetry" />
+      <module name="august24" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.poetry" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="768" height="275" key="GridCell.Tab.0.bottom" timestamp="1598372340815">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="768" height="275" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1598372340815" />
+    <state width="768" height="275" key="GridCell.Tab.0.center" timestamp="1598372340815">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="768" height="275" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1598372340815" />
+    <state width="768" height="275" key="GridCell.Tab.0.left" timestamp="1598372340815">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="768" height="275" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1598372340815" />
+    <state width="768" height="275" key="GridCell.Tab.0.right" timestamp="1598372340815">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="768" height="275" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1598372340815" />
+  </component>
+</project>
