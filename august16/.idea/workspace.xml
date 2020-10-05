@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3480afa0-6190-4e28-be28-eba31aa6662b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JAVA CLASS''" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gBTwjJtid9B1OR5NHUi7dAQnXJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.problemD">
+    <configuration name="problemA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problemA" />
+      <module name="august16" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problemB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problemB" />
+      <module name="august16" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problemC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problemC" />
+      <module name="august16" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problemD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problemD" />
+      <module name="august16" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.problemD" />
+        <item itemvalue="Application.problemC" />
+        <item itemvalue="Application.problemB" />
+        <item itemvalue="Application.problemA" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="23" width="1280" height="1027" key="#Project_Structure" timestamp="1597588004239">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="0" y="23" width="1280" height="1027" key="#Project_Structure/0.23.1680.1027@0.23.1680.1027" timestamp="1597588004239" />
+    <state width="732" height="341" key="GridCell.Tab.0.bottom" timestamp="1597933812847">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="732" height="341" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1597933812847" />
+    <state width="732" height="341" key="GridCell.Tab.0.center" timestamp="1597933812846">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="732" height="341" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1597933812846" />
+    <state width="732" height="341" key="GridCell.Tab.0.left" timestamp="1597933812846">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="732" height="341" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1597933812846" />
+    <state width="732" height="341" key="GridCell.Tab.0.right" timestamp="1597933812847">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="732" height="341" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1597933812847" />
+    <state width="732" height="341" key="GridCell.Tab.1.bottom" timestamp="1597933812848">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="732" height="341" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1597933812848" />
+    <state width="732" height="341" key="GridCell.Tab.1.center" timestamp="1597933812848">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="732" height="341" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1597933812848" />
+    <state width="732" height="341" key="GridCell.Tab.1.left" timestamp="1597933812847">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="732" height="341" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1597933812847" />
+    <state width="732" height="341" key="GridCell.Tab.1.right" timestamp="1597933812848">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="732" height="341" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1597933812848" />
+    <state x="895" y="23" width="838" height="1032" key="search.everywhere.popup" timestamp="1597641499174">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="895" y="23" width="838" height="1032" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1597641499174" />
+  </component>
+</project>
