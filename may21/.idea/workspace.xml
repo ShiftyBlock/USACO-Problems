@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3352dc4b-60f5-429e-aae9-fdafe09415fc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JAVA CLASS''" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cF3z6rxu7FLYKg4LQQiNWWv14q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="494" y="88" key="SettingsEditor" timestamp="1590119114236">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="494" y="88" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1590119114236" />
+  </component>
+</project>

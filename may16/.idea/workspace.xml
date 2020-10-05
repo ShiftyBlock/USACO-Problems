@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb9b60fc-1201-4e8f-af12-a0c80b2fbf90" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JAVA CLASS,," />
+        <option value="JAVA CLASS'" />
+        <option value="JAVA CLASS;" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1c01u5Q8HO6oGvAZdJLCV7i4JnB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RunManager" selected="Application.domino">
+    <configuration name="domino" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="domino" />
+      <module name="may16" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="letter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="letter" />
+      <module name="may16" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.domino" />
+        <item itemvalue="Application.letter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="696" height="275" key="GridCell.Tab.0.bottom" timestamp="1589751008934">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="696" height="275" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1589751008934" />
+    <state width="696" height="275" key="GridCell.Tab.0.center" timestamp="1589751008934">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="696" height="275" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1589751008934" />
+    <state width="696" height="275" key="GridCell.Tab.0.left" timestamp="1589751008933">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="696" height="275" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1589751008933" />
+    <state width="696" height="275" key="GridCell.Tab.0.right" timestamp="1589751008934">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="696" height="275" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1589751008934" />
+    <state x="494" y="88" key="SettingsEditor" timestamp="1589678554670">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="494" y="88" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1589678554670" />
+  </component>
+</project>
