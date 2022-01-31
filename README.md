@@ -1,5 +1,5 @@
 README
-Some material has been moved to the USACO Guide.
+Some files/folders of my practice are not listed here. Unfortunately after a full reboot, I was unable to relocate the files. Codeforces submissions can be found online.
 
 Notes
 I am currently not updating the following pages:
